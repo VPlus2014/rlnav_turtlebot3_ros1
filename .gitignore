@@ -1,0 +1,16 @@
+# 以下是忽略的文件
+**/.vscode/
+**/__pycache__/
+log/
+runs/
+saved_models/
+
+/envs/build/
+/envs/devel/
+/envs/src/CMakeLists.txt
+/git.private.md
+.catkin_workspace
+
+/temp.py
+/test_envs.py
+/test_multilaunch.py

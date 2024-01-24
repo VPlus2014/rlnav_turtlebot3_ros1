@@ -1,0 +1,5 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+. filter=lfs diff=lfs merge=lfs -text
+* filter=lfs diff=lfs merge=lfs -text
+/envs filter=lfs diff=lfs merge=lfs -text
+envs filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,5 @@
+batch_size: 32
+max_episode_secs: 30 # 单局最大时长(s)
+trn_hours: 12 # 预计训练总时长(h)
+mins_checkpoint: 20  # 单轮训练时长(m)
+gamma: 0.99 #
